@@ -1,6 +1,8 @@
 Mailgun logos and brand guidelines
 =====
 
+![Mailgun](https://raw.github.com/mailgun/media/master/Mailgun_Primary.png)
+
 Logos
 -----
 
