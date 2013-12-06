@@ -20,6 +20,7 @@ Brand colors
 * #231F20 Black
 
 Website colors
+http://mailgun.com
 
 * #364c75 Deep Blue
 * #87a5ca Light Blue
