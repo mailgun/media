@@ -15,8 +15,8 @@ Colors
 
 Brand colors
 
-* #BF2427 Red
-* #656569 Grey
+* #c22026 Red
+* #64656a Grey
 * #231F20 Black
 
 Website colors
