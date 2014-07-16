@@ -1,6 +1,8 @@
 Mailgun logos and brand guidelines
 =====
 
+![Mailgun](https://raw.github.com/mailgun/media/master/Mailgun_Primary.png)
+
 Logos
 -----
 
@@ -13,11 +15,12 @@ Colors
 
 Brand colors
 
-* #BF2427 Red
-* #656569 Grey
+* #c22026 Red
+* #64656a Grey
 * #231F20 Black
 
 Website colors
+http://mailgun.com
 
 * #364c75 Deep Blue
 * #87a5ca Light Blue
