@@ -28,4 +28,4 @@ http://mailgun.com
 Typography
 ----------
 
-Website uses <a href="http://www.google.com/fonts/specimen/Ubuntu">Ubuntu</a> and <a href="http://www.google.com/fonts/specimen/Open+Sans">Open Sans</a>.
+Website uses <a href="http://www.google.com/fonts/specimen/Titillium+Web">Titillium Web</a> and <a href="https://www.google.com/fonts/specimen/Lato">Lato</a>.
